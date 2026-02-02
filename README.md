@@ -39,5 +39,4 @@ The goal of this module is to understand how Endpoint Detection and Response (ED
 
 ---
 
-## 📂 Repository Structure
 
